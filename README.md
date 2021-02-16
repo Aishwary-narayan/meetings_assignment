@@ -21,15 +21,21 @@
  
 PORT=
 DBUSER=\<your db username\>
+
 DBHOST=\<db host\>
+
 DBNAME=\<db name\>
+
 DBPASS=\<db password\>
+
 DBPORT=\<db port\>
+
 DATEFORMAT='YYYY-DD-MM'  //add date format that will be sent in apis for start and end time
   
 **Steps to run:**
 
 1. npm i
+
 2. node app.js
   
   
