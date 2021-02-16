@@ -10,7 +10,7 @@
   
 2. Get meeting by id:
    GET : /meeting/:<meeting_id>
-   Response: { meetings: <details> }
+   Response: { meetings: \<details\> }
   
 3. Get all meetings between a given time interval
    GET: /meetings
