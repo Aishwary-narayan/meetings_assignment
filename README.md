@@ -1,7 +1,7 @@
 **meetings_assignment**
 
 
-**Apis:
+**Apis:**
 
 1. Create meeting:
    POST : /meetings
@@ -17,7 +17,7 @@
    params: startTime, endTime ,page(optional)
    
    
-**.env configuration keys needed:
+**.env configuration keys needed:**
  
 PORT=
 DBUSER=<your db username>
@@ -27,7 +27,7 @@ DBPASS=<db password>
 DBPORT=<db port>
 DATEFORMAT='YYYY-DD-MM'  //add date format that will be sent in apis for start and end time
   
-**Steps to run:
+**Steps to run:**
 
 1. npm i
 2. node app.js
