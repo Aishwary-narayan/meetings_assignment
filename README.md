@@ -4,9 +4,9 @@
 **Apis:**
 
 1. Create meeting:
-   POST : /meetings
+   POST : meetings
    BODY:  title, participants, startTime, endTime 
-   Response: { meetings: <details> }
+   Response: { meetings: \<details\> }
   
 2. Get meeting by id:
    GET : /meeting/:<meeting_id>
