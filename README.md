@@ -1,7 +1,7 @@
 **meetings_assignment**
 
 
-**Apis:**
+=> **Apis:**
 
 1. Create meeting:
    POST : meetings
@@ -17,7 +17,7 @@
    params: startTime, endTime ,page(optional)
    
    
-**.env configuration keys needed:**
+=> **.env configuration keys needed:**
  
    PORT=
 
@@ -33,10 +33,12 @@
 
    DATEFORMAT='YYYY-DD-MM'  //add date format that will be sent in apis for start and end time
   
-**Steps to run:**
+=> **Steps to run:**
 
 1. npm i
 
-2. node app.js
+2. create .env file with given keys on root of project folder
+
+3. Run node app.js
   
   
