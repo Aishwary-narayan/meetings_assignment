@@ -19,18 +19,19 @@
    
 **.env configuration keys needed:**
  
-PORT=
-DBUSER=\<your db username\>
+  PORT=
 
-DBHOST=\<db host\>
+  DBUSER=\<your db username\>
 
-DBNAME=\<db name\>
+  DBHOST=\<db host\>
 
-DBPASS=\<db password\>
+  DBNAME=\<db name\>
 
-DBPORT=\<db port\>
+  DBPASS=\<db password\>
 
-DATEFORMAT='YYYY-DD-MM'  //add date format that will be sent in apis for start and end time
+  DBPORT=\<db port\>
+
+  DATEFORMAT='YYYY-DD-MM'  //add date format that will be sent in apis for start and end time
   
 **Steps to run:**
 
